@@ -29,3 +29,16 @@ This project explores **gradient ascent optimization** on a chosen two-variable 
 git clone https://github.com/yourusername/gradient_ascent_project.git
 cd gradient_ascent_project
 pip install -r requirements.txt
+
+##Ussage
+jupyter notebook notebooks/gradient_ascent_exploration.ipynb
+
+## Dependencies       <--- THIS GOES HERE
+- numpy
+- matplotlib
+- sympy
+- jupyter
+
+## Future Improvements  <--- AND THIS GOES HERE
+- Animate gradient ascent paths over the surface.
+- Explore multiple starting points to see different local maxima - understnd and appreciate the underlying mathematical theory of different results
