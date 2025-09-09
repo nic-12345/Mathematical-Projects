@@ -31,7 +31,7 @@ cd gradient_ascent_project
 pip install -r requirements.txt
 
 ```
-##Ussage
+## Usage
 ```
 jupyter notebook notebooks/gradient_ascent_exploration.ipynb
 ```
