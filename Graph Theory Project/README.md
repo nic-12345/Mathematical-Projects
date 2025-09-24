@@ -9,10 +9,6 @@ This project contains Python code for analyzing **undirected graphs** using **Ne
 
 ---
 
-## Files
-
-- `YourNotebook.ipynb` — main Colab notebook containing all code, functions, and examples
-- (Optional) Any additional scripts, data files, or notebooks can be included here in this folder
 
 ---
 
