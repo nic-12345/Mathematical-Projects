@@ -32,7 +32,7 @@ This project contains Python code for analyzing **undirected graphs** using **Ne
 
 1. Open the notebook in Google Colab.  
 2. Run each cell sequentially to generate graphs, compute paths, and check connectivity.  
-3. Modify parameters (`n` for nodes, `p` for edge probability) to experiment with different graphs.
+3. Modify parameters to experiment with different graphs.
 
 ---
 
