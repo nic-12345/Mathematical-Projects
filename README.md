@@ -1,6 +1,6 @@
 # Mathematics Projects
 
-This repository contains a collection of mathematics projects, some of which are affiliated with [Your School Name], along with personal contributions and extensions. The projects primarily focus on **combinatorics** and **numerical methods**.
+This repository contains a collection of mathematics projects, some of which are affiliated with the University of St. Andrews, along with personal contributions and extensions. The projects primarily focus on **combinatorics** and **numerical methods**.
 
 ## Contents
 
